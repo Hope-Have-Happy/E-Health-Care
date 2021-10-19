@@ -6,7 +6,7 @@ const Register = () => {
     const { error, getName, getEmail, userRegistration, getPassword } =
         useAuth();
     return (
-        <div className="w-25 m-auto p-3 mt-3 border rounded">
+        <div className="w-25 m-auto p-3 mt-3 mb-3 border rounded w-50">
             <h2 className="text-primary">Please, Register</h2>
             <div className="text-danger" style={{ height: "50px" }}>
                 {error}
