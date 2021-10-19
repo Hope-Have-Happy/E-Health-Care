@@ -8,7 +8,7 @@
     },
     {
         "name": "Laboratory and diagnostic",
-        "id": " 2",
+        "id": "2",
         "img": "https://www.labtestingmatters.org/wp-content/uploads/2019/10/istock-949947192_1.jpg",
         "fees": 220,
         "description": "Health systems around the world seek to address patients’ unmet health needs for a range of acute and chronic diseases. Simultaneously, governments strive to keep healthcare spending sustainable, while providing equal access to high-quality care. This has fuelled debate around what constitutes a valuable healthcare intervention in a health system and the corollary consideration of what governments are willing to pay for a certain health intervention. Until recently, the value of information in general, and the value of diagnostic information (VODI) specifically, was not part of the discussion."
@@ -22,8 +22,8 @@
     },
     {
         "name": "Pharmaceutical care",
-        "id": " 4",
-        "img": "https://thumbs.dreamstime.com/b/pharmacy-business-medicine-drug-store-character-pharmacist-care-patient-professional-pharmaceutical-science-online-pill-140891209.jpg",
+        "id": "4",
+        "img": "https://image.freepik.com/free-photo/top-view-pills_23-2148021432.jpg",
         "fees": 350,
         "description": "PC implementation is a necessity today. Although developed countries have implemented it and been practicing it for years, gaps still exist. Even though the role of pharmacists in patient-centered care is needed and demanding, the findings and deliberations mentioned above indicated that there is still a long way to go. Developing countries face big challenges. They have several barriers, e.g., education, policy, regulation, practice, economic, technology, and sociobehavioral, which are not easy to tackle. On the other hand, pharmacists are required to implement GPPs and hence implementation of patient-centered care. They may seek technical assistance from global bodies such as WHO and FIP, who have been working on relevant models and have developed many strategies to deal with these barriers and provide services to the society."
     },

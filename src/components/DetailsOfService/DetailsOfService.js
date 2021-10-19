@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
+import { Link } from 'react-router-dom';
 
 const DetailsOfService = () => {
     const { serviceId } = useParams();
@@ -7,7 +8,7 @@ const DetailsOfService = () => {
     const [data, setData] = useState({});
 
     useEffect(() => {
-        fetch("/data.JSON")
+        fetch("/data.json")
             .then((res) => res.json())
             .then((d) => setService(d));
     }, [serviceId]);
@@ -23,12 +24,12 @@ const DetailsOfService = () => {
         <div>
             <div className="container w-50">
                 <div className="card mb-3">
-                    <img className="card-img-top" src={data?.img} />
+                    <img className="card-img-top" src={data?.img} alt="" />
                     <div className="card-body">
                         <h5 className="card-title">{data?.name}</h5>
                         <h5>Fees: <span className="text-danger">${data?.fees}</span></h5>
                         <p className="card-text">{data?.description}</p>
-                        <button className="btn- btn-danger">Book Now</button>
+                        <button className="btn btn-danger">Book Now</button>
                     </div>
                 </div>
             </div>
