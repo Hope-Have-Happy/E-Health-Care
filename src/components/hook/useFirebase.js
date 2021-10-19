@@ -97,15 +97,15 @@ const useFirebase = () => {
 
     const googleSignIn = () => {
         setIsLoading(true);
-        signInWithPopup(auth, googleProvider)
-            .then(result => {
-                setUser(result.user);
-            })
-            .catch((error) => {
-                setError(error.message)
-            }).finally(() =>
-                setIsLoading(false)
-            );
+        return signInWithPopup(auth, googleProvider)
+        // .then(result => {
+        //     setUser(result.user);
+        // })
+        // .catch((error) => {
+        //     setError(error.message)
+        // }).finally(() =>
+        //     setIsLoading(false)
+        // );
     }
 
     useEffect(() => {
