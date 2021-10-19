@@ -14,7 +14,7 @@ const EachService = (props) => {
                     <h5>Fees: <span className="text-danger">${fees}</span></h5>
                     <p>{description.slice(0, 200)}</p>
                 </div>
-                <Link to={`/services/${id}`}><button type="button" className="btn btn-danger">Book Now</button></Link>
+                <Link to={`/services/${id}`}><button type="button" className="btn btn-danger w-100">See More</button></Link>
             </div>
         </div>
     );
