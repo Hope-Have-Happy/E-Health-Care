@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Dental care",
+        "id": 1,
+        "img": "https://www.nightingales.in/blog/wp-content/uploads/2018/10/RCT-Treatment-1-409x237.jpg",
+        "fees": 100,
+        "description": "Tooth decay and gum disease are caused by plaque, a sticky combination of bacteria and food. Plaque begins to build up on teeth within a few minutes after eating. If teeth are not cleaned well each day, plaque will lead to tooth decay or gum disease. If you do not remove plaque, it turns into a hard deposit called tartar that becomes trapped at the base of the tooth. Plaque and tartar irritate and inflame the gums."
+    },
+    {
+        "name": "Laboratory and diagnostic",
+        "id": 2,
+        "img": "https://www.labtestingmatters.org/wp-content/uploads/2019/10/istock-949947192_1.jpg",
+        "fees": 220,
+        "description": "Health systems around the world seek to address patients’ unmet health needs for a range of acute and chronic diseases. Simultaneously, governments strive to keep healthcare spending sustainable, while providing equal access to high-quality care. This has fuelled debate around what constitutes a valuable healthcare intervention in a health system and the corollary consideration of what governments are willing to pay for a certain health intervention. Until recently, the value of information in general, and the value of diagnostic information (VODI) specifically, was not part of the discussion."
+    },
+    {
+        "name": "Nutritional support",
+        "id": 3,
+        "img": "https://cimg0.ibsrv.net/cimg/www.woundcarecenters.org/728x426_85/274/How-your-diet-can-aid-in-wound-healing-13274.jpg",
+        "fees": 400,
+        "description": "Nutrition can be provided either through a feeding tube (enteral nutrition) or, when the digestive tract cannot be used, through an intravenous tube called a catheter that is inserted directly into the veins (parenteral nutrition).  The amount, type, and route of nutrition are tailored specifically to each patient with the goal being to improve patient outcomes, minimize infections, and allow patients to live their lives as normally as possible."
+    },
+    {
+        "name": "Pharmaceutical care",
+        "id": 4,
+        "img": "https://thumbs.dreamstime.com/b/pharmacy-business-medicine-drug-store-character-pharmacist-care-patient-professional-pharmaceutical-science-online-pill-140891209.jpg",
+        "fees": 350,
+        "description": "PC implementation is a necessity today. Although developed countries have implemented it and been practicing it for years, gaps still exist. Even though the role of pharmacists in patient-centered care is needed and demanding, the findings and deliberations mentioned above indicated that there is still a long way to go. Developing countries face big challenges. They have several barriers, e.g., education, policy, regulation, practice, economic, technology, and sociobehavioral, which are not easy to tackle. On the other hand, pharmacists are required to implement GPPs and hence implementation of patient-centered care. They may seek technical assistance from global bodies such as WHO and FIP, who have been working on relevant models and have developed many strategies to deal with these barriers and provide services to the society."
+    },
+    {
+        "name": "Prenatal care",
+        "id": 5,
+        "img": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2322715.jpeg",
+        "fees": 300,
+        "description": "Prenatal care is the health care you get while you are pregnant. It includes your checkups and prenatal testing. Prenatal care can help keep you and your baby healthy. It lets your health care provider spot health problems early. Early treatment can cure many problems and prevent others."
+    },
+    {
+        "name": "Nursing care",
+        "id": 6,
+        "img": "https://4.imimg.com/data4/TU/GX/IMOB-54407911/nursing-care-500x500.jpg",
+        "fees": 200,
+        "description": "The most common form of home health care is some type of nursing care depending on the person's needs. In consultation with the doctor, a registered nurse will set up a plan of care. Nursing care may include wound dressing, ostomy care, intravenous therapy, administering medication, monitoring the general health of the patient, pain control, and other health support."
+    },
+    {
+        "name": "Medical social services",
+        "id": 7,
+        "img": "http://santecares.com/wp-content/uploads/2019/05/5-14-2.jpg",
+        "fees": 350,
+        "description": "Medical social workers provide various services to the patient, including counseling and locating community resources to help the patient in his or her recovery. Some social workers are also the patient's case manager--if the patient's medical condition is very complex and requires coordination of many services."
+    },
+    {
+        "name": "Homemaker or basic assistance care",
+        "id": 8,
+        "img": "https://www.bayada.com/cp-img/banners/mobile/cross-practice-what-is-home-care-1020x437.jpg",
+        "fees": 230,
+        "description": "While a patient is being medically cared for in the home, a homemaker or person who helps with chores or tasks can maintain the household with meal preparation, laundry, grocery shopping, and other housekeeping items."
+    },
+    {
+        "name": "Laboratory and X-ray imaging",
+        "id": 9,
+        "img": "https://post.healthline.com/wp-content/uploads/2020/08/chest-x-ray_thumb-1-732x549.jpg",
+        "fees": 225,
+        "description": "Certain laboratory tests, such as blood and urine tests, can be performed in the comfort of the patient's home. In addition, portable X-ray machines allow lab technicians to perform this service at home."
+    }
+]
