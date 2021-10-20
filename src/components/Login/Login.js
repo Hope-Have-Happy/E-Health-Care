@@ -18,7 +18,7 @@ const Login = () => {
         history.push(redirect_url)
     }
     return (
-        <div className="w-25 m-auto p-3 mt-5 mb-5 border rounded w-50">
+        <div className="m-auto p-3 mt-5 mb-5 border rounded w-50">
             <h2 className="text-primary ">Please, Log in</h2>
             <div className="text-danger" style={{ height: "50px" }}>
                 {error}

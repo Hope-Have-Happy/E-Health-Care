@@ -16,6 +16,7 @@ const useFirebase = () => {
     const [userpassword, setuserPassword] = useState("");
     const [isLoading, setIsLoading] = useState(true);
 
+
     const getName = e => {
         setName(e.target.value);
     }
@@ -117,6 +118,7 @@ const useFirebase = () => {
             }
             setIsLoading(false)
         });
+
     }, [])
 
     const logOut = () => {

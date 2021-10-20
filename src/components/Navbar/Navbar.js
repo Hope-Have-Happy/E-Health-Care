@@ -81,7 +81,7 @@ const Navbar = () => {
                                 </NavLink></a>
                             </li>
 
-                            {!user?.displayName ?
+                            {!user?.email ?
                                 <li className="nav-item">
                                     <a className="nav-link" href="/"><NavLink
                                         className="ms-4 text"
