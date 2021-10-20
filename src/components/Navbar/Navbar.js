@@ -110,7 +110,6 @@ const Navbar = () => {
                                     </NavLink></a>
 
                                 </li>
-                                // <button className="btn  font-weight-bold" onClick={logOut}>Logout</button>
                             }
 
                             {user?.displayName &&
