@@ -9,7 +9,7 @@ const Register = () => {
     return (
         <div className="m-auto p-3 mt-3 mb-3 border rounded w-50">
             <h2>Please <span className="text-danger">Register</span></h2>
-            <div className="text-danger" style={{ height: "10px" }}>
+            <div className="text-danger" style={{ height: "30px" }}>
                 {error}
             </div>
             <div class="row px-3">

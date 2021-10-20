@@ -24,7 +24,7 @@ const Login = () => {
                 <div class="row mb-4 px-3">
                     <h2 class="mr-4 mt-2">Please <span className="text-danger">login</span></h2>
                 </div>
-                <div className="text-danger" style={{ height: "10px" }}>
+                <div className="text-danger" style={{ height: "30px" }}>
                     {error}
                 </div>
                 <div class="row px-3">                
